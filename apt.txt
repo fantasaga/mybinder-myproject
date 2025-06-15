@@ -1,0 +1,7 @@
+openjdk-21-jre
+sudo
+libboost-all-dev
+libgl1-mesa-dev
+libglu1-mesa
+libsm-dev
+libxkbcommon0
